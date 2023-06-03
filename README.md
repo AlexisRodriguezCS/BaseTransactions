@@ -33,7 +33,7 @@ To install and run the DBTransactions project, follow these steps:
 
 1. Clone the repository to your local machine by running the following command in your terminal or command prompt:
 
-   `git clone https://github.com/your-username/DBTransactions.git`
+   `git clone https://github.com/AlexisRodriguezCS/DBTransactions.git`
 
 2. Ensure you have Java Development Kit (JDK) installed on your machine. You can download and install the latest JDK from the official Oracle website: [Java SE Downloads](https://www.oracle.com/java/technologies/downloads/#java11)
 
