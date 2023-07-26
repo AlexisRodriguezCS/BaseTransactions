@@ -1,3 +1,10 @@
+/***************************************************************
+ * File: DBTransactions.java
+ * Purpose: Implements database transactions for managing employees and departments.
+ *          Reads transactions from a file and performs actions based on the transaction code.
+ * Author: Alexis Rodriguez
+ ***************************************************************/
+
 package com.example.DBTransactions;
 import java.io.File;
 import java.io.FileNotFoundException;
